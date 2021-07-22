@@ -32,7 +32,7 @@
         "react-click-away-listener": "^1.2.0",
         "jspdf": "^2.0.0",
         "jspdf-autotable": "^3.5.6",
-        "xlsx": "^0.16.3",
+        "xlsx": "^0.17.0",
         "idempotent-babel-polyfill": "^7.4.4"
     },
     "devDependencies": {
